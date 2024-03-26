@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import TestimonialImage01 from '@/public/images/testimonial-01.jpg'
-import TestimonialImage02 from '@/public/images/testimonial-02.jpg'
-import TestimonialImage03 from '@/public/images/testimonial-03.jpg'
+import TestimonialImage01 from '@/public/images/testimonial-01.svg'
+import TestimonialImage02 from '@/public/images/testimonial-02.svg'
+import TestimonialImage03 from '@/public/images/testimonial-03.svg'
 
 export default function Testimonials() {
   return (
